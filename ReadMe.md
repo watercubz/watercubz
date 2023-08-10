@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm from the Dominican Republic.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I  lerarning</p>
+<p align="left">I'm from the Dominican Republic.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I  learning</p>
 
 ###
 
