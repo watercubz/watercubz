@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h3 align="center">hey, I'm Eury Sosa, and I am a backend developer. 👋</h3>
+<h3 align="center">hey, I'm Eury Sosa, and I am front-end developer. 👋</h3>
 
 ###
 
