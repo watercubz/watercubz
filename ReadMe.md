@@ -5,7 +5,7 @@
  <!-- TODO: add elastic search icon -->
 <div align="center">
  <h2 align="center">Skills</h2>
-    <img src="https://skillicons.dev/icons?i=bash,nodejs,mongodb,jwt,postgres,linux,git,js&perline=5" />
+    <img src="https://skillicons.dev/icons?i=bash,nodejs,mongodb,github,postgres,linux,git,js&perline=5" />
 </div>
 
 </br>
