@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm an enthusiast, on the backend development side<br> 
-🚀 I’m <br>
+🚀 I’m open source lover <br>
 🌱 I’m currently learning Nodejs<br>
 💬 Ask me about backend<br>
 
