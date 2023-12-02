@@ -1,7 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br> 
-🚀 I’m looking to collaborate on opensource<br>
-🌱 I’m currently learning JavaScript<br>💬 Ask me about backend<br>
+🔭 I'm an enthusiast, on the backend development side<br> 
+🚀 I’m <br>
+🌱 I’m currently learning Nodejs<br>
+💬 Ask me about backend<br>
 
 
 # 💻 Tech Stack:
