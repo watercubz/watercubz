@@ -143,4 +143,23 @@ export default {
       border-right-color: transparent;
     }
   }
+
+
+  @media screen and (max-width: 800px) {
+    .header {
+      margin: 1.1em;
+    }
+    .title {
+      font-size: 3rem;
+    }
+    .name {
+      font-size: 1.5rem;
+    }
+    .description {
+      font-size: 1rem;
+    }
+    .text-highlight {
+      font-size: 1rem;
+    }
+  }
 </style>
