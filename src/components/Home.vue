@@ -55,7 +55,7 @@ export default {
 
   .header {
     display: flex;
-    margin: 5rem;
+    margin: 3rem;
     flex-direction: column;
   }
 
@@ -85,6 +85,7 @@ export default {
   .text-highlight {
     color: #817e78;
     font-size: 1.3rem;
+    margin-right: 0.2rem;
     font-weight: 500;
   }
 
@@ -131,7 +132,7 @@ export default {
       width: 0;
     }
     to {
-      width: 16.3em;
+      width: 15.3em;
     }
   }
 
@@ -145,12 +146,12 @@ export default {
   }
 
 
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 667px ) {
     .header {
-      margin: 1.1em;
+      margin: 0.5rem;
     }
     .title {
-      font-size: 3rem;
+      font-size: 2rem;
     }
     .name {
       font-size: 1.5rem;

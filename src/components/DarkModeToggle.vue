@@ -30,11 +30,11 @@ const toggleDark = useToggle(isDark);
 }
 .dark-svg {
   fill: #fcf700;
-  margin: 30px; 
+  margin: 10px; 
 }
 .light-svg {
   fill: #524e4e; 
-  margin: 30px;
+  margin: 10px;
 
 }
 </style>
