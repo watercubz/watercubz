@@ -60,17 +60,17 @@ export default {
   }
 
   .title {
-    color: #64625e;
+   color:  #111827 ;
     font-size: 5rem;
   }
 
   .name {
-    color: #bcb8b1;
+    color:#454545;
     font-size: 2rem;
   }
 
   .nick-name {
-    color: #8a817c;
+    color: #454545;
   }
 
   .description-div {
@@ -78,12 +78,12 @@ export default {
   }
 
   .description {
-    color: #ada6a1;
+    color: #454545;
     font-size: 1.5rem;
   }
 
   .text-highlight {
-    color: #817e78;
+    color: #454545;
     font-size: 1.3rem;
     margin-right: 0.2rem;
     font-weight: 500;

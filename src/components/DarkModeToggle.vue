@@ -28,7 +28,8 @@ height:100%;
 width:100%;
 position: absolute;
 top: 0;
-background: radial-gradient(ellipse 80% 80% at 50% -20%, rgba(120, 119, 198, 0.3), rgba(255, 255, 255, 0)), #0a0a0a;
+background: radial-gradient(ellipse 80% 80% at 50% -20%, rgba(117, 116, 199, 0.3), rgba(255, 255, 255, 0)), #0a0a0a;
+font: bold;
 }
 
 .dark-icons {

@@ -1,10 +1,10 @@
 :root {
-  --background-color-primary: #ebebeb;
-  --background-color-secondary: #fafafa;
-  --accent-color: #cacaca;
-  --text-primary-color: #222;
+  /* --background-color-primary: #ebebeb; */
+  /* --background-color-secondary: #fafafa; */
+    /* --accent-color: #cacaca; */
+  --text-primary-color: #ffffff;
   --element-size: 4rem; /* <- this is the base size of our element */
-  
+  background-image: linear-gradient(to right, #8080800a 1px, transparent 1px), linear-gradient(to bottom, #8080800a 1px, transparent 1px);
 }
 
 
