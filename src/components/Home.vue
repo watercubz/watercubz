@@ -108,7 +108,6 @@ export default {
   * {
     font-family: "Maven Pro", sans-serif;
     overflow-x: hidden;
-    background-image: linear-gradient(135deg, rgb(215, 235, 235), rgb(244, 175, 233), rgb(157, 126, 243));
   }
 
   .line {
