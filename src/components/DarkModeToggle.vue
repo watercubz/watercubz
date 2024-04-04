@@ -21,7 +21,14 @@ const toggleDark = useToggle(isDark);
 <style>
 
 .dark {
-background-image: linear-gradient(135deg, rgb(215, 235, 235), rgb(244, 175, 233), rgb(157, 126, 243));
+position:fixed;
+z-index: -1; 
+top:0px; left:0px;
+height:100%;
+width:100%;
+position: absolute;
+top: 0;
+background: radial-gradient(ellipse 80% 80% at 50% -20%, rgba(120, 119, 198, 0.3), rgba(255, 255, 255, 0)), #0a0a0a;
 }
 
 .dark-icons {
