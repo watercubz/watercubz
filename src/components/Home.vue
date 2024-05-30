@@ -42,7 +42,7 @@ export default {
           { name: "Twitter", url: "https://twitter.com/watercubz" },
         ],
         Langs: ["Javascript"],
-        Frameworks: ["Express", "Vue", "Firebase", "Nodejs"],
+        Frameworks: ["Express", "Deno", "Firebase", "Nodejs", "MongoDB", "Supabase", "PostgreSQL"],
       },
       name: 'Eury Sosa Garcia',
       nickname: 'dev'
