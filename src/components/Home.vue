@@ -7,7 +7,7 @@
 
     <div class="description-div">
       <p class="description">
-        I am a software developer with an interest in web development and with
+        I am a software developer with an interest in backend development and with
         knowledge in
         <span v-for="(lang, index) in data.Langs" :key="index" class="text-highlight">
           {{ lang }} 
