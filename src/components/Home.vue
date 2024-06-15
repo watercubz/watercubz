@@ -121,7 +121,7 @@
               </a>
             </li>
             <li>
-              <a href="www.linkedin.com/in/watercubz" target="_blank" class="flex items-center space-x-2">
+              <a href="https://linkedin.com/watercubz" target="_blank" class="flex items-center space-x-2">
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" class="w-6 h-6">
                 <span>LinkedIn</span>
               </a>
