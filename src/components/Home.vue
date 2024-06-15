@@ -121,7 +121,7 @@
               </a>
             </li>
             <li>
-              <a href="https://linkedin.com/watercubz" target="_blank" class="flex items-center space-x-2">
+              <a href="https://www.linkedin.com/in/watercubz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="flex items-center space-x-2">
                 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" class="w-6 h-6">
                 <span>LinkedIn</span>
               </a>
