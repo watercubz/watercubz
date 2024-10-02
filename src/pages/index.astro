@@ -1,0 +1,39 @@
+---
+import Layout from "@/layouts/Layout.astro";
+
+import Briefcase from "@/components/icons/Briefcase.astro";
+import CodeIcon from "@/components/icons/Code.astro";
+import Projects from "@/components/Projects.astro";
+import SectionContainer from "@/components/SectionContainer.astro";
+import Hero from "@/components/Hero.astro";
+import TitleSection from "@/components/TitleSection.astro";
+import ExperienceItem from "@/components/ExperienceItem.astro";
+---
+
+<Layout
+  title="Eury sosa garcia - Desarrollador de Software"
+  description="Desarollador de software y apasionado del opensource"
+>
+  <main class="px-4">
+    <SectionContainer class="py-16 md:py-36">
+      <Hero />
+    </SectionContainer>
+  </main>
+  <div class="space-y-24">
+    <SectionContainer id="experiencia">
+      <TitleSection>
+        <Briefcase class="size-8" />
+        Experiencia
+      </TitleSection>
+      <ExperienceItem />
+    </SectionContainer>
+
+    <SectionContainer id="portfolio">
+      <TitleSection>
+        <CodeIcon class="size-7" />
+        Portfolio
+      </TitleSection>
+      <Projects />
+    </SectionContainer>
+  </div>
+</Layout>
