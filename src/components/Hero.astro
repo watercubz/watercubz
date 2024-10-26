@@ -1,42 +1,39 @@
 ---
-const personalImageAlt = 'Miguel Ángel';
-import Badge from '@/components/Badge.astro';
+const personalImageAlt = 'Eury sosa';
 import LinkedInIcon from '@/components/icons/LinkedIn.astro';
 import SocialPill from '@/components/SocialPill.astro';
 import GitHub from './icons/GitHub.astro';
 ---
 
-<div class="max-w-xl">
-  <div class="flex gap-4 mb-4">
-    <img
-      class="rounded-full shadow-lg size-16"
-      src="/watercubz.jpeg"
-      alt={personalImageAlt}
-    />
-    <a
-      href="https://linkedin.com/in/midudev"
-      target="_blank"
-      rel="noopener"
-      class="flex items-center transition md:justify-center md:hover:scale-105"
-    >
-      <Badge>Disponible para trabajar</Badge>
-    </a>
+<div class="max-w-xl mx-auto">
+  <div class="container max-w-screen-xl mx-auto px-4">
+    <div class="text-center">
+      <div class="flex justify-center mb-16">
+        <img
+          src="/watercubz2.jpeg"
+          alt="Image"
+          class="w-64 h-64 rounded-full object-contain object-fill"
+          style="filter: grayscale(1);"
+        />
+      </div>
+      <h6 class="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">
+        Eury Sosa Garcia
+      </h6>
+      <h1
+        class="font-normal text-gray-900 text-3xl md:text-5xl leading-none mb-8"
+      >
+        Software Developer
+      </h1>
+      <p class="font-normal text-gray-600 text-md md:text-xl mb-16">
+        Open source contribuiter
+      </p>
+    </div>
   </div>
-  <h1
-    class="text-4xl font-bold tracking-tight text-gray-700 sm:text-5xl dark:text-white"
-  >
-    Hey, soy Eury sosa
-  </h1>
-  <p
-    class="mt-6 text-xl text-gray-800 dark:[&>strong]:text-yellow-200 [&>strong]:text-gray-500 [&>strong]:font-semibold dark:text-gray-300"
-  >
-    <strong class="text-gray-950">Desarrollador de Software</strong> y Colaborador
-    del Opensource
-  </p>
-  <nav class="flex flex-wrap gap-4 mt-8">
+
+  <nav class="flex flex-wrap gap-4 mt-8 justify-center">
     <SocialPill href="https://linkedin.com/in/watercubz">
       <LinkedInIcon class="size-4" />
-      LinkedIn
+      Contact me
     </SocialPill>
     <SocialPill href="https://github.com/watercubz">
       <GitHub class="size-4" />
