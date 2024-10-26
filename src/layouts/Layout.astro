@@ -2,7 +2,6 @@
 import '@fontsource-variable/onest';
 
 import Footer from '../components/Footer.astro';
-import { ViewTransitions } from 'astro:transitions';
 
 interface Props {
   title: string;
@@ -21,7 +20,6 @@ const { description, title } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
-    <ViewTransitions />
   </head>
 
   <body class="relative text-black dark:text-white">
